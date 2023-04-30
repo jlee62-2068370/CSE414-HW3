@@ -1,0 +1,20 @@
+Overall I thought that being able to work with a
+cloud hosted DBMS was amazing. No longer did I have to
+create a database using the command line nor view/populate
+tables using sqlite3. By having a cloud hosted DBMS,
+it made it all the more convenient to create and store
+databases for use. Additionally, connecting Azure to VSC
+was extremely helpful and efficient when it came to
+running SQL queries and viewing results. To that end, I
+would most definitely reccomend working with a cloud hosted
+DBMS, or some commercial DBMS, to coworkers over other students.
+This is many because of the cost of many commercial DBMS
+could be a lot for a student who is just trying it out, whereas
+if it was a coworker, who specializes in data analytics or
+something along those lines, it makes more sense since it
+would be something for their career. Students could use local
+DDMS for free, for example, sqlite3. Which is something light weight
+and also free to use. Nonetheless, I would greatly like to show
+my appreciation for CSE414 for allowing students to use Azure, it's
+been a longtime dream of mine since it's always been
+expensive for me.

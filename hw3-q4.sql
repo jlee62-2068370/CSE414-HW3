@@ -13,3 +13,27 @@ WHERE fl.dest_city != 'Seattle WA'
 ORDER BY city ASC;
 
 -- Total rows outputted: 325
+-- Total time: 00:00:11.800
+
+/* First 20 rows:
+Aberdeen SD
+Abilene TX
+Adak Island AK
+Aguadilla PR
+Akron OH
+Albany GA
+Albany NY
+Albuquerque NM
+Alexandria LA
+Allentown/Bethlehem/Easton PA
+Alpena MI
+Amarillo TX
+Anchorage AK
+Appleton WI
+Arcata/Eureka CA
+Asheville NC
+Ashland WV
+Aspen CO
+Atlanta GA
+Atlantic City NJ
+*/
